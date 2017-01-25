@@ -54,3 +54,4 @@ run/
 .gradle/
 build/
 gradle-app.setting
+eclipse/
