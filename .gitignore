@@ -49,6 +49,7 @@ local.properties
 # Code Recommenders
 .recommenders/
 
+# Additional from https://gist.github.com/Choonster/6447037d24d0ed5898b8
 run/
 .gradle/
 build/
