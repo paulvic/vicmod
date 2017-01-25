@@ -14,6 +14,7 @@ public class VicMod {
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
 		ModItems.init();
+		ModBlocks.init();
 	}
 	
 	@Mod.EventHandler
